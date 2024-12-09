@@ -10,7 +10,7 @@ We are going to learn and implement the AWS cloud with basic practices.
 
 We will cover in different tasks on AWS:
 
-* [Create Key Pair](create-key-pair.md)
+* [Create Key Pair](broken-reference)
 * Create Security Group
 * Create GP3 Volume
 * Create Subnet
