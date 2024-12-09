@@ -2,8 +2,7 @@
 
 * [Intro](README.md)
 * [Docker](docker/README.md)
-  * [Installing Docker and Docker Compose on an Ubuntu server:](docker/installing-docker-and-docker-compose-on-an-ubuntu-server/README.md)
-    * [Docker](docker/installing-docker-and-docker-compose-on-an-ubuntu-server/docker.md)
+  * [Installing Docker and Docker Compose on an Ubuntu server:](docker/installing-docker-and-docker-compose-on-an-ubuntu-server.md)
   * [Cannot perform an interactive login from a non TTY device](docker/cannot-perform-an-interactive-login-from-a-non-tty-device.md)
 * [Git & Github](git-and-github/README.md)
   * [Auto-merge in github](git-and-github/auto-merge-in-github.md)
