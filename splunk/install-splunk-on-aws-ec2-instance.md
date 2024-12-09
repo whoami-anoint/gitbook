@@ -1,3 +1,7 @@
+---
+icon: sign-posts-wrench
+---
+
 # Install Splunk on AWS EC2 Instance
 
 Let's install Splunk on AWS EC2 Instance.&#x20;
