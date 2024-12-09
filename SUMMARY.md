@@ -127,4 +127,3 @@
   * [Package in linux](linux-security/package-in-linux.md)
   * [ICMP vulnerability:](linux-security/icmp-vulnerability.md)
   * [Tunnelmole](linux-security/tunnelmole.md)
-  * [Timestamp](linux-security/timestamp.md)
