@@ -17,7 +17,7 @@ Let's install Splunk on AWS EC2 Instance.&#x20;
 
 {% embed url="https://www.splunk.com/en_us/download/splunk-enterprise/thank-you-enterprise.html" %}
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 Download via [Command Line (wget)](https://www.splunk.com/en_us/download/splunk-enterprise/thank-you-enterprise.html)
 
@@ -27,7 +27,7 @@ wget -O splunk-9.3.2-d8bb32809498-linux-2.6-amd64.deb "https://download.splunk.c
 
 Launch the instance for Splunk
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 Connect now with pem files for the instance
 

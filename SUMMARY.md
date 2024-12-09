@@ -121,6 +121,7 @@
   * [Introduction](splunk/introduction.md)
   * [Uses of Splunk](splunk/uses-of-splunk.md)
   * [Install Splunk on AWS EC2 Instance](splunk/install-splunk-on-aws-ec2-instance.md)
+  * [Indexes in Splunk](splunk/indexes-in-splunk.md)
 * [Linux Security](linux-security/README.md)
   * [Package in linux](linux-security/package-in-linux.md)
   * [ICMP vulnerability:](linux-security/icmp-vulnerability.md)

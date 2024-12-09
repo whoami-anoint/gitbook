@@ -40,7 +40,7 @@ These machines generate the data that Splunk collects and analyzes to help organ
 
 
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 #### Companies Using Splunk
 
