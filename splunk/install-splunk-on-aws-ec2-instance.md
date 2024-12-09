@@ -72,7 +72,7 @@ The Splunk web interface is at [http://ip-172-31-21-144:8000](http://ip-172-31-2
 
 <figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
-Lets access the Splunk Web Interface but unable to fix this.&#x20;
+Lets access the Splunk Web Interface.&#x20;
 
 <figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
