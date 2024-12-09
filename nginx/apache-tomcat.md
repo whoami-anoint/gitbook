@@ -74,13 +74,13 @@ sudo systemctl status tomcat
 
 ```
 
-<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (19) (1).png" alt=""><figcaption></figcaption></figure>
 
 sample.war makes sample folder ultimately when we move the .war file.&#x20;
 
 * You can try any of your war file and browse the path as the given.
 
-<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
 
 Some resource I used :&#x20;
 

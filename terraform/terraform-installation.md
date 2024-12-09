@@ -77,7 +77,7 @@ terraform apply
 
 * Now check to the website. I installed nginx here.
 
-<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
 
 * &#x20;If you also wanna try, check [install-jenkins-docker-image-with-terraform.md](install-jenkins-docker-image-with-terraform.md "mention")
 

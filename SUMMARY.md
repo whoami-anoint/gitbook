@@ -119,6 +119,8 @@
   * [Config sysinfo-web](prometheus-and-grafana/config-sysinfo-web.md)
 * [Splunk](splunk/README.md)
   * [Introduction](splunk/introduction.md)
+  * [Uses of Splunk](splunk/uses-of-splunk.md)
+  * [Install Splunk on AWS EC2 Instance](splunk/install-splunk-on-aws-ec2-instance.md)
 * [Linux Security](linux-security/README.md)
   * [Package in linux](linux-security/package-in-linux.md)
   * [ICMP vulnerability:](linux-security/icmp-vulnerability.md)

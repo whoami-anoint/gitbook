@@ -7,7 +7,7 @@ Links:&#x20;
 
 
 
-<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (20) (1).png" alt=""><figcaption></figcaption></figure>
 
 ```bash
 sudo nano userdata.sh

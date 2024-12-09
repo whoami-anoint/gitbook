@@ -1,4 +1,4 @@
-# Ansible
+# Introduction
 
 Ansible is a powerful open-source automation tool used for configuration management, application deployment, and orchestration in DevOps workflows. Benefits of Ansible are Free, Very simple to set up and use, Powerful, Flexible, Agentless, and Efficient.
 
@@ -36,5 +36,5 @@ Then,&#x20;
 ansible
 ```
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Ansible installation demo</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Ansible installation demo</p></figcaption></figure>
 
