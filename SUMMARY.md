@@ -128,3 +128,6 @@
   * [Introduction](wazuh/introduction.md)
   * [Installation](wazuh/installation.md)
   * [Creating an infra using Terraform](wazuh/creating-an-infra-using-terraform.md)
+  * [Manually creating aws infra](wazuh/manually-creating-aws-infra.md)
+  * [Ansible servers](wazuh/ansible-servers.md)
+  * [Ansible (master with worker)](wazuh/ansible-master-with-worker.md)
