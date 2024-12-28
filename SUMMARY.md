@@ -124,3 +124,7 @@
   * [Package in linux](linux-security/package-in-linux.md)
   * [ICMP vulnerability:](linux-security/icmp-vulnerability.md)
   * [Tunnelmole](linux-security/tunnelmole.md)
+* [Wazuh](wazuh/README.md)
+  * [Introduction](wazuh/introduction.md)
+  * [Installation](wazuh/installation.md)
+  * [Creating an infra using Terraform](wazuh/creating-an-infra-using-terraform.md)
