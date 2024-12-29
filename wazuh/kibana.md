@@ -68,11 +68,11 @@ bin/elasticsearch-create-enrollment-token --scope kibana
 
 <figure><img src="../.gitbook/assets/image (119).png" alt=""><figcaption></figcaption></figure>
 
-Now to&#x20;
+Now let's login the portal.&#x20;
 
 <figure><img src="../.gitbook/assets/image (123).png" alt=""><figcaption></figcaption></figure>
 
-I don't know password not time to set.
+I don't know password, now time to set.
 
 ```bash
 sudo ./elasticsearch-reset-password -u elastic
