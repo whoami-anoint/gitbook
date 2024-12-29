@@ -8,7 +8,7 @@ sudo add-apt-repository --yes --update ppa:ansible/ansible
 sudo apt install ansible -y
 </code></pre>
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 Create ssh-keygen with&#x20;
 
@@ -16,7 +16,7 @@ Create ssh-keygen with&#x20;
 ssh-keygen -t rsa -b 2048
 ```
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Copy this key and we'll add to agent server later.
 
@@ -24,7 +24,7 @@ Copy this key and we'll add to agent server later.
 cat ~/.ssh/id_rsa.pub
 ```
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 Paste the given keys to authorized\_keys of wazuh agent server.
 
@@ -32,5 +32,10 @@ Paste the given keys to authorized\_keys of wazuh agent server.
 nano ~/.ssh/authorized_keys
 ```
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+
+```
+ansible all -i inventory/hosts -m ping
+
+```
 
