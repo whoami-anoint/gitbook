@@ -6,7 +6,14 @@
 
 This repository contains Ansible playbooks, inventory, and scripts designed to automate the installation and configuration of Wazuh (Manager and Agent). This project simplifies setting up and managing these components in your environment.
 
+Get the repo:&#x20;
 
+{% @github-files/github-code-block %}
+
+```
+git clone https://github.com/whoami-anoint/wazu/
+cd ansible/
+```
 
 ### Directory Structure
 
