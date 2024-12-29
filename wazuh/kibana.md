@@ -1,6 +1,58 @@
 # Kibana
 
-Kibana
+Enable and start Kibana:
+
+```
+sudo systemctl enable kibana
+sudo systemctl start kibana
+```
+
+```
+# Start the Wazuh Dashboard:
+
+sudo systemctl enable wazuh-dashboard
+sudo systemctl start wazuh-dashboard
+
+```
+
+```
+sudo systemctl restart wazuh-manager
+```
+
+**wazuh agent**
+
+```
+sudo systemctl restart wazuh-agent
+sudo systemctl enable wazuh-agent
+```
+
+**Kibana**
+
+Change localhost to **0.0.0.0 from kibana.yml**
+
+```
+sudo nano /etc/kibana/kibana.yml
+
+```
+
+```
+server.host: "localhost"
+
+```
+
+```
+server.host: "0.0.0.0"
+```
+
+```linker-script
+http://<your-server-ip>:5601
+```
+
+```
+sudo systemctl restart kibana
+```
+
+
 
 Elastic search
 
