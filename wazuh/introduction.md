@@ -21,3 +21,14 @@ Wazuh can be used in various scenarios to enhance security across different envi
 * **Multi-Environment Support:** Wazuh covers on-premises, cloud, and hybrid environments.
 * **Real-Time Monitoring:** Provides real-time security monitoring and alerting.
 * **User Community:** Benefit from a strong community for support and collaboration.
+
+#### Components of Wazuh server&#x20;
+
+* Wazuh Manager -> /var/ossec/etc/ossec.conf
+* Filebeat OSS -> /etc/filebeat/filebeat.yml
+* Wazuh Indexer -> etc/ wazuh-indexer/opensearch.yml
+* Wazuh Dashboard
+
+&#x20;-> /etc/wazuh-dashboard/opensearch-dashboards.yml
+
+-> /usr/share/wazuh-dashboard/data/wazuh/config/wazuh.yml
