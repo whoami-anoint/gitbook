@@ -22,7 +22,7 @@ Always learning, always building. 🚀
 ### 🌐 Connect with Me
 
 * 📖 Blog: [abisec.hashnode.dev](https://abisec.hashnode.dev)
-* 💼 LinkedIn: [linkedin.com/in/abisec](https://linkedin.com/in/abisecops)
+* 💼 LinkedIn: [linkedin.com/in/abisec](https://linkedin.com/in/abisec)
 * 📧 Email: [pingabisec@gmail.com](mailto:pingabisec@gmail.com)
 
 ***
