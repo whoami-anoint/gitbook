@@ -11,7 +11,8 @@
 {% step %}
 SSH into `Storage Server`
 
-```
+```bash
+ssh natasha@172.16.238.15
 ```
 
 <figure><img src="../.gitbook/assets/image (126).png" alt=""><figcaption></figcaption></figure>
