@@ -1,18 +1,11 @@
 # Set Up Git Repository on Storage Server
 
-Tasks
+### Tasks
 
 1. Utilize `yum` to install the `git` package on the `Storage Server`.
 2. Create a bare repository named `/opt/apps.git` (ensure exact name usage).
 
 ### Steps
-
-4. Verify Git Installation
-
-```
-git --version
-
-```
 
 {% stepper %}
 {% step %}
