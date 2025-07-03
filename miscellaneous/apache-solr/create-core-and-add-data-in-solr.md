@@ -20,11 +20,11 @@ sudo su - solr -c "/opt/solr/bin/solr create -c coder -n data_driven_schema_conf
 /opt/solr/bin/solr delete -c coder
 ```
 
-<figure><img src="../.gitbook/assets/image (103).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (103).png" alt=""><figcaption></figcaption></figure>
 
 Then,  create the solr core again:&#x20;
 
-<figure><img src="../.gitbook/assets/image (105).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (105).png" alt=""><figcaption></figcaption></figure>
 
 In case, you got any error check on the logs: \
 
@@ -63,4 +63,4 @@ curl -X POST \
 sudo service solr restart
 ```
 
-<figure><img src="../.gitbook/assets/image (106).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (106).png" alt=""><figcaption></figcaption></figure>

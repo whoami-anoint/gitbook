@@ -1,46 +1,70 @@
 # Intro
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code\&pause=1000\&color=8DF77B\&background=FF197700\&width=435\&lines=Abhishek+Kafle;Mr.+Anoint)](https://git.io/typing-svg)
+👋 Hi, I’m **Abishek Kafle (Abisec)** \~ DevOps | GitOps | Security Passionate
 
-<div align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="" width="100"></div>
+> _"Wisdom begins in wonder."_ ❤️
 
-<div align="left"><img src="https://komarev.com/ghpvc/?username=whoami-anoint&#x26;label=Profile%20views&#x26;color=0e75b6&#x26;style=flat" alt=""></div>
+***
 
-_\[Lover of Bash]🤤♥️ |Alpha-Geek|Infosec Poet✍️|Learner|💻 "Wisdom begins in wonder"❤️_\
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code\&weight=20\&size=15\&duration=5024\&pause=996\&color=F70CF2\&background=FF197700\&width=435\&lines=2+Decades+%2B+of+living+a+comical+life!!+)](https://git.io/typing-svg)
+### 🙋 About Me
 
-#### 👨‍💻: About Me :
+I'm a DevOps Engineer who loves building fast, secure, and scalable systems.
 
-🔧💻 I'm **a DevOps Engineer**, always exploring with tech.
+* 🔄 Strong believer in **GitOps**: automation, version control, and clean deployments.
+* 🛡️ Passionate about **DevSecOps**, Linux security, and infrastructure as code.
+* 📦 I enjoy setting up CI/CD pipelines, managing containers, and writing useful scripts.
+* ✍️ I also write poems about technology — I call it **Infosec Poetry**.
 
-🚀🛡️ On a mission to excel in **DevSecOps**.
+Always learning, always building. 🚀
 
-🔒🤖 Passionate about **cybersecurity and automation**.
+***
 
-💻🚀 Digging into coding, deployment, and making things work.
+### 🌐 Connect with Me
 
-🕵️‍♂️🔨 Eager to tackle exciting projects, like security tests and tool development.
+* 📖 Blog: [abisec.hashnode.dev](https://abisec.hashnode.dev)
+* 💼 LinkedIn: [linkedin.com/in/abisec](https://linkedin.com/in/abisecops)
+* 📧 Email: [pingabisec@gmail.com](mailto:pingabisec@gmail.com)
 
-🎮🌐 Even my free time is a playground for **infosec and infotech**.
+***
 
-✍️📚 Proudly **an Infosec Poet**, I write poems on tech and cybersecurity.
+### 🔧 Core Skills & Technologies
 
-🌟 I am constantly working to improve myself and my skills, always pushing to **dream, dare and do**.
+| Domain                   | Tools & Technologies                 |
+| ------------------------ | ------------------------------------ |
+| **Version Control**      | 🧰 Git, GitHub                       |
+| **GitOps**               | 🔁 Argo CD, FluxCD                   |
+| **Cloud & Infra**        | ☁️ AWS, 🌍 Terraform, 🛠️ Ansible    |
+| **CI/CD & Automation**   | ⚙️ Jenkins, 🧪 GitHub Actions        |
+| **Containers & K8s**     | 🐳 Docker, ☸️ Kubernetes             |
+| **Monitoring & Logging** | 📈 Prometheus, 📊 Grafana, 🔍 Splunk |
+| **Security & OS**        | 🛡️ Linux Hardening, 🧠 Wazuh        |
+| **Web & Reverse Proxy**  | 🌐 Nginx, ⚡ Traefik                  |
+| **API Development**      | 🐍 Python (FastAPI), 🦫 Golang (Gin) |
 
-🚀🛡️👾 Let's **team up, learn, and create cool tech stuff** together!
+***
 
-\
-:fire: **My Stats :**[ ](https://github.com/whoami-anoint)**My motivational Quote :**&#x20;
+### 💡 Beliefs
 
-**✍️Make recipe for your success, 🧑‍🍳**\
-**Prepare yourself for competitive race, 🐎**\
-**Focus on your study, 👨‍🎓**\
-**While other are sleeping, 🛌**\
-**Busy in your work, 🧑‍💻**\
-**While others are loafing, 😴**\
-**Compose yourself, 🖋️**\
-**While others are playing, 🤾‍♂️**\
-**Visualize Your Dream, ✨**\
-**While others are wishing. 🤎🚀**
+* Simplicity is powerful.
+* Security should be built-in, not bolted on.
+* Automate early, automate often.
+* Git is not just for code — it’s for infrastructure, too.
 
-#### **I do believe in:"Not all readers are leader 📚 But all leaders are reader."❤️👑**
+***
+
+### ✨ My Quote
+
+> ✍️ _Make a recipe for your success:_\
+> Focus while others rest,\
+> Work while others delay,\
+> Learn while others waste,\
+> Dream while others only wish.
+>
+> 🎯 “Not all readers are leaders, but all leaders are readers.”
+
+***
+
+💬 **Let's work together to automate, secure, and scale your cloud infrastructure using DevOps + GitOps best practices.**
+
+> 📩 _I'm open to opportunities, collaborations, and impactful engineering roles!_\
+> 📬 [pingabisec@gmail.com](mailto:pingabisec@gmail.com)

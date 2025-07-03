@@ -144,10 +144,10 @@ sudo service solr restart
 
 {% embed url="https://f5c4-52-157-4-131.ngrok-free.app/solr/#/coder/documents" %}
 
-<div align="left"><figure><img src="../.gitbook/assets/image (107).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (107).png" alt=""><figcaption></figcaption></figure></div>
 
 ## File Upload
 
 You can also upload your file:&#x20;
 
-<figure><img src="../.gitbook/assets/image (108).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (108).png" alt=""><figcaption></figcaption></figure>
