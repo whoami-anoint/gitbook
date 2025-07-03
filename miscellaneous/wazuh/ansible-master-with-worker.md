@@ -16,7 +16,7 @@ Create ssh-keygen with&#x20;
 ssh-keygen -t rsa -b 2048
 ```
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Copy this key and we'll add to agent server later.
 
