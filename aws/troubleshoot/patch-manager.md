@@ -8,7 +8,7 @@ Today we are going to learn on  Patch Manager on AWS.
 
 This era is the era of automation, as we believe: "There is no place like 127.0.0.1" . But after all, you can give some effect to secure the system. As all infra are being switched to cloud. We're going to secure the AWS system from Patch Manager. It's included as part of the AWS Systems Manager suite of services.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Patch Manager:&#x20;
 
