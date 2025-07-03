@@ -21,5 +21,5 @@ aws ec2 run-instances --image-id "ami-0e2c8caa4b6378d8c" --instance-type "t3.mic
   * Wazuh manager requires ports 22  and 1514.
   * Wazuh agent requires port 1514 to communicate with the manager.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
