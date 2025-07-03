@@ -40,7 +40,7 @@ resource "docker_container" "jenkins" {
 }
 ```
 
-<figure><img src="../.gitbook/assets/image (6) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Now, init the terraform:&#x20;
 

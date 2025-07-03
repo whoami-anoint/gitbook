@@ -12,7 +12,7 @@ description: >-
 cd /opt/solr/server/solr/mycore/conf
 ```
 
-<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * If you don't have this directory:&#x20;
 
