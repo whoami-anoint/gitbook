@@ -36,5 +36,5 @@ Then,&#x20;
 ansible
 ```
 
-<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Ansible installation demo</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Ansible installation demo</p></figcaption></figure>
 
