@@ -1,10 +1,4 @@
-# Subnet Creation Guide
-
-### Table of contents
-
-* [Tasks](broken-reference)
-* [Steps](broken-reference)
-  * [Associated VPC CIDRs](broken-reference)
+# Create Subnet
 
 #### Tasks <a href="#heading-tasks" id="heading-tasks"></a>
 
