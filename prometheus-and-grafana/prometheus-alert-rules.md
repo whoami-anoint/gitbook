@@ -2,20 +2,6 @@
 description: Set alert rules for prometheus
 cover: ../.gitbook/assets/image (92).png
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Prometheus alert rules

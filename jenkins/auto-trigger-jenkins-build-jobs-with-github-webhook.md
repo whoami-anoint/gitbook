@@ -2,20 +2,6 @@
 description: We're going to do github integration with jenkins using github webhook.
 cover: ../.gitbook/assets/image (33).png
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Auto Trigger Jenkins Build /Jobs with github webhook

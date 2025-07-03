@@ -1,6 +1,6 @@
 # Dotnet Runtime Missing (Solved)
 
-<figure><img src="../.gitbook/assets/image (97).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (97).png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://stackoverflow.com/questions/75110031/dotnet-run-not-finding-the-installed-runtime-in-ubuntu-22-04" %}
 

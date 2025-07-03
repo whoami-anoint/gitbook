@@ -82,7 +82,7 @@ sudo ./elasticsearch-reset-password -u elastic
 
 username: elastic
 
-password: sHRP\*tzMIwwQxXMWggZ7
+password: \*\*\*\*\*\*
 
 
 

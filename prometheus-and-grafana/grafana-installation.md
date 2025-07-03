@@ -1,20 +1,6 @@
 ---
 cover: https://grafana.com/meta-generator/Install%20Grafana.jpg
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Grafana Installation

@@ -1,21 +1,7 @@
 ---
 description: Today I have to install and config dotnet runtime 7.0.2 in ubuntu server
-cover: ../.gitbook/assets/image (88).png
+cover: ../../.gitbook/assets/image (88).png
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Dotnet runtime:  7.0.2
@@ -66,7 +52,7 @@ To check dotnet runtimes:
 dotnet --list-runtimes
 ```
 
-<figure><img src="../.gitbook/assets/image (86).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (86).png" alt=""><figcaption></figcaption></figure>
 
 Check dotnet information
 
@@ -74,4 +60,4 @@ Check dotnet information
 dotnet --info
 ```
 
-<figure><img src="../.gitbook/assets/image (83).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (83).png" alt=""><figcaption></figcaption></figure>

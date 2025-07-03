@@ -103,4 +103,4 @@ The best solution to fix such issue is: reinstall dotnet framework, packages pro
 
 #### For reference:&#x20;
 
-[deploy-apis-on-nginx-webserver-in-ubuntu.md](../nginx/deploy-apis-on-nginx-webserver-in-ubuntu.md "mention")
+[deploy-apis-on-nginx-webserver-in-ubuntu.md](../../nginx/deploy-apis-on-nginx-webserver-in-ubuntu.md "mention")

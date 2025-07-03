@@ -1,12 +1,12 @@
 ---
 description: Unable to use AWS CLI in Jenkins due to "Unable to locate credentials" error
-cover: ../.gitbook/assets/image (90).png
+cover: ../../.gitbook/assets/image (90).png
 coverY: 0
 ---
 
 # Cannot perform an interactive login from a non TTY device
 
-<figure><img src="../.gitbook/assets/image (89).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (89).png" alt=""><figcaption></figcaption></figure>
 
 Method (1)
 

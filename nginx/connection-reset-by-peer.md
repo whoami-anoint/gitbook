@@ -3,20 +3,6 @@ description: SSH Problem
 cover: >-
   https://forum.nomachine.com/wp-content/uploads/2014/01/Screen-Shot-2014-01-07-at-1.15.39-PM.png
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Connection reset by peer
