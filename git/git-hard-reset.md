@@ -1,0 +1,2 @@
+# Git hard reset
+
