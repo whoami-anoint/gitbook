@@ -17,7 +17,7 @@ Let's install Splunk on AWS EC2 Instance.&#x20;
 
 {% embed url="https://www.splunk.com/en_us/download/splunk-enterprise/thank-you-enterprise.html" %}
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Download via [Command Line (wget)](https://www.splunk.com/en_us/download/splunk-enterprise/thank-you-enterprise.html)
 
