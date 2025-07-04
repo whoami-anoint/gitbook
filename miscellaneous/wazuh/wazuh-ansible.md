@@ -15,7 +15,7 @@ To demonstrate how we can provision and configure multiple Wazuh endpoints with 
 * An Ubuntu 23.04 endpoint to deploy and configure the [Wazuh Linux agent 4.7.0](https://documentation.wazuh.com/current/installation-guide/wazuh-agent/wazuh-agent-package-linux.html).&#x20;
 * A Windows 11 endpoint to deploy and configure the [Wazuh Windows agent 4.7.0](https://documentation.wazuh.com/current/installation-guide/wazuh-agent/wazuh-agent-package-windows.html).
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 The following table shows the parameters we used to demonstrate our deployment.
 
@@ -25,7 +25,7 @@ The following table shows the parameters we used to demonstrate our deployment.
 | Ubuntu 23.04  | Managed node | 172.16.1.13    | SSH          |
 | Windows 11    | Managed node | 172.16.1.12    | WinRM        |
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 _Let's create and use the non-root user account to manage all the endpoints._
 
@@ -35,7 +35,7 @@ _username :**ansible**, and password: **`pass123`**_
 
 #### Setting up Ansible for configuration management
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 \
 Set up Ansible for configuration management.
