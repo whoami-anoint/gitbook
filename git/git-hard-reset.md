@@ -15,7 +15,7 @@
 {% step %}
 SSH to storage server and switch to root if needed
 
-```
+```bash
 ssh natasha@ststor01
 sudo su -
 ```
@@ -36,7 +36,7 @@ Find the commit hash for "add data.txt file"
 git log --oneline
 ```
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -46,7 +46,7 @@ Reset to "add data.txt file"
 git rebase -i --root
 ```
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -77,6 +77,6 @@ Verify only two commits remain
 git log --oneline
 ```
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
