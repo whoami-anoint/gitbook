@@ -60,17 +60,17 @@ Elastic search
 sudo /usr/share/elasticsearch/bin/elasticsearch-create-enrollment-token --scope kibana
 ```
 
-<figure><img src="../../.gitbook/assets/image (120).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (202).png" alt=""><figcaption></figcaption></figure>
 
 ```bash
 bin/elasticsearch-create-enrollment-token --scope kibana
 ```
 
-<figure><img src="../../.gitbook/assets/image (119).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (201).png" alt=""><figcaption></figcaption></figure>
 
 Now let's login the portal.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (123).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (205).png" alt=""><figcaption></figcaption></figure>
 
 I don't know password, now time to set.
 
@@ -78,7 +78,7 @@ I don't know password, now time to set.
 sudo ./elasticsearch-reset-password -u elastic
 ```
 
-<figure><img src="../../.gitbook/assets/image (122).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (204).png" alt=""><figcaption></figcaption></figure>
 
 username: elastic
 
@@ -86,7 +86,7 @@ password: \*\*\*\*\*\*
 
 
 
-<figure><img src="../../.gitbook/assets/image (124).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (206).png" alt=""><figcaption></figcaption></figure>
 
 ```
 ```

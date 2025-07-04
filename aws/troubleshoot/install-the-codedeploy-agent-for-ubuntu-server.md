@@ -1,6 +1,6 @@
 ---
 description: codedeploy-agent on ec2 instance
-cover: ../../.gitbook/assets/image (94).png
+cover: ../../.gitbook/assets/image (176).png
 coverY: 0
 ---
 
@@ -28,4 +28,4 @@ systemctl status codedeploy-agent
 systemctl start codedeploy-agent # if services are stopped
 ```
 
-<figure><img src="../../.gitbook/assets/image (94).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (176).png" alt=""><figcaption></figcaption></figure>

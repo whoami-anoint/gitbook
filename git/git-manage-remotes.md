@@ -52,7 +52,7 @@ git remote add dev_media /opt/xfusioncorp_media.git
 cp /tmp/index.html .
 ```
 
-<figure><img src="../.gitbook/assets/image (136).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (218).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -64,7 +64,7 @@ git commit -m "add index.html"
 
 ```
 
-<figure><img src="../.gitbook/assets/image (137).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (219).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -74,7 +74,7 @@ Push master branch to dev\_media
 git push dev_media master
 ```
 
-<figure><img src="../.gitbook/assets/image (138).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (220).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 

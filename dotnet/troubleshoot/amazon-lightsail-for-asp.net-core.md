@@ -6,7 +6,7 @@ description: Using Amazon Lightsail for ASP.NET Core
 
 
 
-<figure><img src="../../.gitbook/assets/image (42).png" alt=""><figcaption><p>Instance running for lightsail </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (124).png" alt=""><figcaption><p>Instance running for lightsail </p></figcaption></figure>
 
 Steps I did after creating instance
 
@@ -42,7 +42,7 @@ passwd
 
 Now let's install nginx on the system after connecting instance.
 
-<figure><img src="../../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (122).png" alt=""><figcaption></figcaption></figure>
 
 ```
 sudo apt-get update
@@ -111,7 +111,7 @@ This time I got next error.&#x20;
 dotnet --info
 ```
 
-<figure><img src="../../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (123).png" alt=""><figcaption></figcaption></figure>
 
 **Solution**:
 
@@ -128,7 +128,7 @@ sudo apt install dotnet-sdk-7.0
 
 This also not worked:&#x20;
 
-<figure><img src="../../.gitbook/assets/image (39).png" alt=""><figcaption><p>Sucked here</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (121).png" alt=""><figcaption><p>Sucked here</p></figcaption></figure>
 
 Tried with azure documentation for ec2 cli:&#x20;
 

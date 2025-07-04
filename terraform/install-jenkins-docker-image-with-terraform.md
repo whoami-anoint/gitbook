@@ -40,7 +40,7 @@ resource "docker_container" "jenkins" {
 }
 ```
 
-<figure><img src="../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (88).png" alt=""><figcaption></figcaption></figure>
 
 #### Now, init the terraform:&#x20;
 
@@ -48,7 +48,7 @@ resource "docker_container" "jenkins" {
 terraform init
 ```
 
-<figure><img src="../.gitbook/assets/image (7) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (89).png" alt=""><figcaption></figcaption></figure>
 
 #### Format and validate the configuration
 
@@ -65,18 +65,18 @@ terraform apply
 # yes if all plan are checked correctly
 ```
 
-<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (90).png" alt=""><figcaption></figcaption></figure>
 
 ```
 terraform apply
 ```
 
-<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (91).png" alt=""><figcaption></figcaption></figure>
 
 * Prompt **yes** only your configuration is correct: \
 
 
-<figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (92).png" alt=""><figcaption></figcaption></figure>
 
 * If you're using localhost, you can try: [http://localhost:8080](http://localhost:8080)
 * Otherwise you can also try ngrok as I already mention on the [terraform-installation.md](terraform-installation.md "mention")
@@ -99,7 +99,7 @@ Your session will run on background.&#x20;
 
 Now access the public URL and here it goes:&#x20;
 
-<figure><img src="../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (94).png" alt=""><figcaption></figcaption></figure>
 
 Now, get the password; In my case:&#x20;
 
@@ -110,8 +110,8 @@ cat /var/jenkins_home/secrets/initialAdminPassword
 
 ```
 
-<figure><img src="../.gitbook/assets/image (100).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (182).png" alt=""><figcaption></figcaption></figure>
 
 Login this admin credentials:&#x20;
 
-<figure><img src="../.gitbook/assets/image (101).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (183).png" alt=""><figcaption></figcaption></figure>

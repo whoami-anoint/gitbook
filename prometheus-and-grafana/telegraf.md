@@ -19,23 +19,23 @@ echo 'deb [signed-by=/etc/apt/trusted.gpg.d/influxdata-archive_compat.gpg] https
 sudo apt-get install telegraf
 ```
 
-<figure><img src="../.gitbook/assets/image (57).png" alt=""><figcaption><p>File upload</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (139).png" alt=""><figcaption><p>File upload</p></figcaption></figure>
 
 You can use these programming language to configure:
 
-<figure><img src="../.gitbook/assets/image (58).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (140).png" alt=""><figcaption></figcaption></figure>
 
 We can use different plugin as per our requirements:&#x20;
 
-<figure><img src="../.gitbook/assets/image (59).png" alt=""><figcaption><p>Plugins sample of telegraf agent in influxdb</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (141).png" alt=""><figcaption><p>Plugins sample of telegraf agent in influxdb</p></figcaption></figure>
 
 Prometheus config on telegraf:&#x20;
 
-<figure><img src="../.gitbook/assets/image (60).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (142).png" alt=""><figcaption></figcaption></figure>
 
 Error found:&#x20;
 
-<figure><img src="../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (143).png" alt=""><figcaption></figcaption></figure>
 
 Let's fix the issue. Status = 401 means auth error.
 
@@ -51,7 +51,7 @@ telegraf --config http://hostip:8086/api/v2/telegrafs/0c6897d0d83b5000
 
 Now, the error is fixed:&#x20;
 
-<figure><img src="../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (127).png" alt=""><figcaption></figcaption></figure>
 
 Let's monitor on influxdb:\
-![](<../.gitbook/assets/image (62).png>)
+![](<../.gitbook/assets/image (144).png>)

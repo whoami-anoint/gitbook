@@ -19,7 +19,7 @@ Today we did service deployment for dot net with ubuntu server.
 mv foldername /srv/
 ```
 
-<figure><img src="../.gitbook/assets/image (67).png" alt=""><figcaption><p>srv files</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (149).png" alt=""><figcaption><p>srv files</p></figcaption></figure>
 
 Now go to the services directory:&#x20;
 
@@ -31,7 +31,7 @@ ls
 
 
 
-<figure><img src="../.gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (147).png" alt=""><figcaption></figcaption></figure>
 
 ```
 #enable the service
@@ -50,4 +50,4 @@ systemctl | grep "hicare"
 
 
 
-<figure><img src="../.gitbook/assets/image (66).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (148).png" alt=""><figcaption></figcaption></figure>

@@ -43,7 +43,7 @@ Check recent commits
 git log --oneline -2
 ```
 
-<figure><img src="../.gitbook/assets/image (139).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (221).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -53,7 +53,7 @@ Revert the latest commit
 git revert HEAD --no-edit
 ```
 
-<figure><img src="../.gitbook/assets/image (140).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (222).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -63,7 +63,7 @@ Change the commit message to exactly "revert beta"
 git commit --amend -m "revert beta"
 ```
 
-<figure><img src="../.gitbook/assets/image (141).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (223).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -73,6 +73,6 @@ Verify the commit history
 git log --oneline -2
 ```
 
-<figure><img src="../.gitbook/assets/image (142).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (224).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}

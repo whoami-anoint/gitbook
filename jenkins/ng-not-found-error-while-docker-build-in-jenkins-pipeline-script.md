@@ -8,7 +8,7 @@ description: 'Issue found on npm while docker build:  hicare_omdashboard_prod'
 
 `I got the following issue while docker build:`&#x20;
 
-<figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (105).png" alt=""><figcaption></figcaption></figure>
 
 From the logs shell script, I found:&#x20;
 
@@ -76,7 +76,7 @@ COPY --from=source /App/dist/StoreWeb /usr/share/nginx/html
 EXPOSE 80
 </code></pre>
 
-<figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (103).png" alt=""><figcaption></figcaption></figure>
 
 Later, I installed the **angular/cli**  in cli instead of dockerfile: \
 &#x20;Install in the jenkins server cli:&#x20;
@@ -85,6 +85,6 @@ Later, I installed the **angular/cli**  in cli instead of dockerfile: \
 npm install -g @angular/cli@latest
 ```
 
-<figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (104).png" alt=""><figcaption></figcaption></figure>
 
 Issue is finally solved.  :tada:

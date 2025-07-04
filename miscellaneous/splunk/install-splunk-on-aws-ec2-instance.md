@@ -17,7 +17,7 @@ Let's install Splunk on AWS EC2 Instance.&#x20;
 
 {% embed url="https://www.splunk.com/en_us/download/splunk-enterprise/thank-you-enterprise.html" %}
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure>
 
 Download via [Command Line (wget)](https://www.splunk.com/en_us/download/splunk-enterprise/thank-you-enterprise.html)
 
@@ -27,11 +27,11 @@ wget -O splunk-9.3.2-d8bb32809498-linux-2.6-amd64.deb "https://download.splunk.c
 
 Launch the instance for Splunk
 
-<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
 
 Connect now with pem files for the instance
 
-<figure><img src="../../.gitbook/assets/image (6) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (68).png" alt=""><figcaption></figcaption></figure>
 
 Use the given commands
 
@@ -41,13 +41,13 @@ wget -O splunk-9.3.2-d8bb32809498-linux-2.6-amd64.deb "https://download.splunk.c
 
 ```
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (70).png" alt=""><figcaption></figcaption></figure>
 
 ```bash
 sudo dpkg -i splunk-9.3.2-d8bb32809498-linux-2.6-amd64.deb
 ```
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (71).png" alt=""><figcaption></figcaption></figure>
 
 First, switch to the Splunk directory:
 
@@ -55,7 +55,7 @@ First, switch to the Splunk directory:
 cd /opt/splunk
 ```
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
 
 Then, start Splunk:
 
@@ -66,25 +66,25 @@ sudo ./bin/splunk start
 
 Then just press enter till the  \_
 
-<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (73).png" alt=""><figcaption></figcaption></figure>
 
 Give desire credentials
 
-<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (74).png" alt=""><figcaption></figcaption></figure>
 
 The Splunk web interface is at [http://ip-172-31-21-144:8000](http://ip-172-31-21-144:8000)
 
-<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (75).png" alt=""><figcaption></figcaption></figure>
 
 Lets access the Splunk Web Interface.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (76).png" alt=""><figcaption></figcaption></figure>
 
 Now signin with your credentials.
 
-<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (80).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (81).png" alt=""><figcaption></figcaption></figure>
 
 <pre class="language-bash"><code class="lang-bash"># Some Useful Commands
 cd /opt/splunk #directory

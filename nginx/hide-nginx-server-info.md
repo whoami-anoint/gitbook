@@ -64,4 +64,4 @@ sudo nginx -s reload
 sudo systemctl restart nginx
 ```
 
-<figure><img src="../.gitbook/assets/image (35).png" alt=""><figcaption><p>Hicare server</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (117).png" alt=""><figcaption><p>Hicare server</p></figcaption></figure>

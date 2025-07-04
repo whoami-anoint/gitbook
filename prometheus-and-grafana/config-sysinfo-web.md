@@ -1,6 +1,6 @@
 ---
 description: Lightweight web based process viewer built on top of sysinfo
-cover: ../.gitbook/assets/image (93).png
+cover: ../.gitbook/assets/image (175).png
 coverY: 0
 ---
 
@@ -28,4 +28,4 @@ cd /home/ubuntu/.cargo/bin
 
 {% embed url="http://dashboardapi.hicare.in:3200/" %}
 
-<figure><img src="../.gitbook/assets/image (93).png" alt=""><figcaption><p>dashboardapi.hicare.in:3200</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (175).png" alt=""><figcaption><p>dashboardapi.hicare.in:3200</p></figcaption></figure>

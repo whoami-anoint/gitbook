@@ -38,7 +38,7 @@ Steps: to add  prometheus
 * [Home](http://192.168.2.101:3000/) > [Connections](http://192.168.2.101:3000/connections) > [Data sources](http://192.168.2.101:3000/connections/datasources)
 * Select prometheus
 
-<figure><img src="../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (128).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -53,15 +53,15 @@ Source: Official Documentation of grafana
 
 `1) email -> smtp not set out -> (pending)`
 
-<figure><img src="../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (129).png" alt=""><figcaption></figcaption></figure>
 
 `2) discord-webhook url : Sucessfully tested`
 
-<figure><img src="../.gitbook/assets/image (48).png" alt=""><figcaption><p>Discord webhook configuration</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (130).png" alt=""><figcaption><p>Discord webhook configuration</p></figcaption></figure>
 
 Now, send test notification:&#x20;
 
-<figure><img src="../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (135).png" alt=""><figcaption></figcaption></figure>
 
 `You can access through the given invitation link:`&#x20;
 
@@ -69,6 +69,6 @@ Now, send test notification:&#x20;
 
 `We can also configure admin option.`
 
-<figure><img src="../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (136).png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://medium.com/yavar/install-and-setup-grafana-on-ubuntu-20-04-22-04-8798824df026" %}

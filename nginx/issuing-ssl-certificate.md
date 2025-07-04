@@ -130,6 +130,6 @@ sudo nginx -s reload
 sudo systemctl restart nginx
 ```
 
-<figure><img src="../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (120).png" alt=""><figcaption></figcaption></figure>
 
 #### :tada: Congrats, your website is hosted on [dashboardapi.hicare.in](https://dashboardapi.hicare.in/) and auto redirected (HTTP to HTTPS) with SSL Certificate.

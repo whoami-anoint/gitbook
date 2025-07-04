@@ -1,6 +1,6 @@
 ---
 description: We're going to do github integration with jenkins using github webhook.
-cover: ../.gitbook/assets/image (33).png
+cover: ../.gitbook/assets/image (115).png
 coverY: 0
 ---
 
@@ -33,11 +33,11 @@ In my case, [https://github.com/whoami-anoint/Hitop/settings/hooks/](https://git
 * Content type be application/json . ( To fix : 502 error)
 * Make sure you are getting 200 response.
 
-<figure><img src="../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (112).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;Webhook is finally added on github repo.&#x20;
 
-<figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (107).png" alt=""><figcaption></figcaption></figure>
 
 5. Now, time to make pipeline on jenkins with the github repo:&#x20;
 
@@ -49,16 +49,16 @@ In my case, [https://github.com/whoami-anoint/Hitop/settings/hooks/](https://git
 
 6. Make any changes on github repo.
 
-<figure><img src="../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (113).png" alt=""><figcaption></figcaption></figure>
 
 7. Let's check on jenkins:&#x20;
 
-<figure><img src="../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (114).png" alt=""><figcaption></figcaption></figure>
 
 Also check on jenkins console:&#x20;
 
 * Started by GitHub push by whoami-anoint
 
-<figure><img src="../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (115).png" alt=""><figcaption></figcaption></figure>
 
 :tada: We have successfully auto triggered the jenkins build using github webhook. Whenever, we made any changes on our github repo, that will be auto merge and auto build in jenkins.&#x20;

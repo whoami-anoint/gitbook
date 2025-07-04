@@ -2,7 +2,7 @@
 description: >-
   This is a simple steps to be followed to attach trivy report after docker
   build on jenkins pipeline to send on mail recipient.
-cover: ../.gitbook/assets/image (34).png
+cover: ../.gitbook/assets/image (116).png
 coverY: 0
 ---
 
@@ -45,6 +45,6 @@ pipeline {
 }
 ```
 
-<figure><img src="../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (116).png" alt=""><figcaption></figcaption></figure>
 
 Now, we can download build log and trivy reports from email. :tada:

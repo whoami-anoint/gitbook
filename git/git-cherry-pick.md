@@ -57,7 +57,7 @@ Find the commit hash from feature branch with message "Update info.txt"
 git log feature --grep="Update info.txt" --oneline
 ```
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -67,7 +67,7 @@ git log feature --grep="Update info.txt" --oneline
 git cherry-pick 0e3895a
 ```
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -77,7 +77,7 @@ Push the updated master branch to remote
 git push origin master
 ```
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 

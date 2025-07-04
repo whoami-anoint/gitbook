@@ -47,7 +47,7 @@ Confirm Sarah's and Max’s commits exist
 git log
 ```
 
-<figure><img src="../.gitbook/assets/image (143).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (225).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -57,13 +57,13 @@ Verify `story/fox-and-grapes` exists
 git branch -a
 ```
 
-<figure><img src="../.gitbook/assets/image (144).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (226).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 Open **Gitea UI and**  Login as `max` / `Max_pass123`
 
-<figure><img src="../.gitbook/assets/image (145).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (227).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -73,25 +73,25 @@ Create PR in **`story-blog`** repo:
 * From branch: `story/fox-and-grapes`
 * To branch: `master`
 
-<figure><img src="../.gitbook/assets/image (146).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (228).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 In PR page → Click **Reviewers** → Add `tom`
 
-<figure><img src="../.gitbook/assets/image (147).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (229).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 Logout from Max's Gitea account. Login as `tom` / `Tom_pass123`
 
-<figure><img src="../.gitbook/assets/image (148).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (230).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 Open the PR → Review → Approve → Merge
 
-<figure><img src="../.gitbook/assets/image (149).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (231).png" alt=""><figcaption></figcaption></figure>
 
 
 {% endstep %}
@@ -99,8 +99,8 @@ Open the PR → Review → Approve → Merge
 {% step %}
 The pull request has been merged as [`6764b4acf8`](http://git.stratos.xfusioncorp.com/sarah/story-blog/commit/6764b4acf839c03b51983c778467ab4c436d24b4).
 
-<figure><img src="../.gitbook/assets/image (150).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (232).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (151).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (233).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}

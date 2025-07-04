@@ -1,6 +1,6 @@
 ---
 description: Set alert rules for prometheus
-cover: ../.gitbook/assets/image (92).png
+cover: ../.gitbook/assets/image (174).png
 coverY: 0
 ---
 
@@ -81,4 +81,4 @@ sudo systemctl restart prometheus
 
 * Check on alerts you can get alerts which alerts rule is firing.&#x20;
 
-<figure><img src="../.gitbook/assets/image (92).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (174).png" alt=""><figcaption></figcaption></figure>

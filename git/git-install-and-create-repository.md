@@ -47,6 +47,6 @@ cd /opt
 git init /opt/ecommerce.git
 ```
 
-<figure><img src="../.gitbook/assets/image (129).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (211).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}

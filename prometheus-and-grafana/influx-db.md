@@ -40,7 +40,7 @@ Now you can access from the link: http://hostIP:8086
 
 Create your credentials: user: passwd
 
-<figure><img src="../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (138).png" alt=""><figcaption></figcaption></figure>
 
 You company, Your bucket -> You can change these later.
 
@@ -50,7 +50,7 @@ We have two features:
 
 2\) Server Agent (Telegraf)
 
-<figure><img src="../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (137).png" alt=""><figcaption></figcaption></figure>
 
 To setup influxdb on cli:&#x20;
 

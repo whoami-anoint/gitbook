@@ -15,7 +15,7 @@ SSH into `Storage Server`
 ssh natasha@172.16.238.15
 ```
 
-<figure><img src="../.gitbook/assets/image (126).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (208).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -41,7 +41,7 @@ Verify Git Installation
 git --version
 ```
 
-<figure><img src="../.gitbook/assets/image (127).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (209).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -59,6 +59,6 @@ Create the bare repository using the `git init` command with the `--bare` flag
 git init --bare apps.git 
 ```
 
-<figure><img src="../.gitbook/assets/image (128).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (210).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
